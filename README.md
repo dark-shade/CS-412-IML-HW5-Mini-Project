@@ -1,12 +1,16 @@
 # CS - 412: IML 
 ## HW - 5 : Mini Project
 
-##### Option 1: 
+#### Option 1: 
 
-Predict	a	person’s	“empathy” on	a	scale	from	1	to	5.	You	can	use	any	of	the	other	attributes	in	the	dataset	to	make	this	prediction. 
+Predict	a	person’s	“empathy” on	a	scale	from	1	to	5.
 
-##### Submitted by:
+#### Submitted by:
 
-Name: Sankul Rawat
+Name: 
 
-Net-id: srawat5
+Sankul Rawat
+
+Net-id: 
+
+srawat5
