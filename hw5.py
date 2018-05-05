@@ -190,7 +190,8 @@ def train(normalizedX, Y):
 	print("Classifier trained")
 	print("Running on test data.......")
 	predictedMLP = clfMLP.predict(feat_selector.transform(X_te))
-	print("Test accuracy = ", np.mean(predictedMLP == y_te))
+	print("\nTest accuracy = ", np.mean(predictedMLP == y_te))
+	print(classification_report(y_te, predictedMLP))
 	
 	
 	
