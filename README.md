@@ -1,13 +1,24 @@
-# CS - 412: IML 
-## HW - 5 : Mini Project
+# Comparative Study of ML Classifiers on Skewered Data 
+ 
+### Objective:
 
-#### Option 1: 
+Predict a person’s “empathy” on a scale from 1 to 5.
 
-Predict	a	person’s	“empathy” on	a	scale	from	1	to	5.
+
+### Dataset:
 
 [Link to dataset](https://www.kaggle.com/miroslavsabo/young-people-survey/data)
 
 
+### Hot to run:
+
+#### Method-1:
+
+1. Download jupyter notebook.
+2. Open Project.ipynb in jupyter notebook.
+
+
+#### Method-2:
 
 If running the code using tereminal:
 
@@ -18,21 +29,3 @@ If running the code using tereminal:
 3. That's all.
 
 
-
-
-Average runtime (depends on how long you look at the plots):
-
-Atmost 3 mins 
-
-
-
-
-#### Submitted by:
-
-Name: 
-
-Sankul Rawat
-
-Net-id: 
-
-srawat5
